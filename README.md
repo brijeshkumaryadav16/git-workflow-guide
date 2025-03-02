@@ -2,7 +2,7 @@
 
 A structured guide on commit message types, branching strategies, and best practices for maintaining a clean Git history.
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/git-workflow-guide?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/brijeshkumar16/git-workflow-guide?style=flat-square)
 
 ---
 
